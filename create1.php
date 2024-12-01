@@ -122,10 +122,10 @@ $conn->close();
         <div>
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="index.php">Home</a>
+                    <a class="nav-link" aria-current="page" href="index.php">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="create1.php"><span style="font-size:larger;">Add New</span></a>
+                    <a class="nav-link active" href="create1.php"><span style="font-size:larger;">Add New</span></a>
                 </li>
             </ul>
         </div>
